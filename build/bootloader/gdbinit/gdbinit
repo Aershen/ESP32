@@ -1,0 +1,2 @@
+source D:/esp/project/hello_world/build/bootloader/gdbinit/symbols
+source D:/esp/project/hello_world/build/bootloader/gdbinit/connect
